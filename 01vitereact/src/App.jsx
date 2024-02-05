@@ -6,6 +6,7 @@ function App() {
     <Chai/>
     </>
 
+
     // these boxes are known as fragment
 )
 }
