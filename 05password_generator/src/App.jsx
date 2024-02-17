@@ -82,7 +82,7 @@ function App() {
               defaultChecked={charAll}
               id="characterInput"
               onChange={() => {
-                  setCharAll((prev) => !prev )
+                  setcharAll((prev) => !prev )
               }}
           />
           <label htmlFor="characterInput">Characters</label>
